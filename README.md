@@ -13,5 +13,7 @@ Dự ấn Quản Lý Nhân Sự đã sử dụng thêm DevExtreme và Bunifu Fra
 <img src="https://raw.githubusercontent.com/DungGramer/QuanLyNhanSu/master/Preview/Sua%20-%20Xoa.png">
 4. Tìm Kiếm
 <img src="https://raw.githubusercontent.com/DungGramer/QuanLyNhanSu/master/Preview/timKiem.png">
-5. Về công ty
+5. Hoá Đơn
+<img src="https://raw.githubusercontent.com/DungGramer/QuanLyNhanSu/master/Preview/hoaDon.png">
+6. Về công ty
 <img src="https://raw.githubusercontent.com/DungGramer/QuanLyNhanSu/master/Preview/about.png">
