@@ -1,6 +1,8 @@
 # Quản Lý Nhân Sự
-Dự ấn Quản Lý Nhân Sự đã sử dụng thêm DevExtreme và Bunifu Framework để hoàn thiện sản phẩm*
-[Download](https://www.dropbox.com/s/gobzk7hnttjfmfs/Quan%20Ly%20Nhan%20Su.zip?dl=0)
+Dự ấn Quản Lý Nhân Sự đã sử dụng thêm DevExtreme và Bunifu Framework để hoàn thiện sản phẩm
+<p align="center">
+  <a href="https://www.dropbox.com/s/gobzk7hnttjfmfs/Quan%20Ly%20Nhan%20Su.zip?dl=0">Download</a>
+</p>
 1. Đăng nhập
 <img src="https://raw.githubusercontent.com/DungGramer/QuanLyNhanSu/master/Preview/login.png">
 2. Thêm Hoá Đơn
