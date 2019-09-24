@@ -1,5 +1,5 @@
 # Quản Lý Nhân Sự
-Dự ấn Quản Lý Nhân Sự đã sử dụng thêm DevExtreme và Bunifu Framework để hoàn thiện sản phẩm
+Dự ấn Quản Lý Nhân Sự đã sử dụng thêm DevExpress và Bunifu Framework để hoàn thiện sản phẩm
 
 <br/><p align="center">
   <a href="https://www.dropbox.com/s/gobzk7hnttjfmfs/Quan%20Ly%20Nhan%20Su.zip?dl=0">Download bằng DropBox</a> | 
